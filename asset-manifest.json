@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/education/static/css/main.beb20912.css",
+    "main.js": "/education/static/js/main.b2498a32.js",
+    "static/media/about.jpg": "/education/static/media/about.118cee91282df73dba99.jpg",
+    "static/media/us_flag.png": "/education/static/media/us_flag.c971f9ff3ea624f987d4.png",
+    "static/media/str_courses.png": "/education/static/media/str_courses.f5f33d06d7bc74083c4a.png",
+    "static/media/whatsapp.png": "/education/static/media/whatsapp.1ef5778de1b3f21cf6f9.png",
+    "static/media/location.png": "/education/static/media/location.72122f143ec5aeb3ce2d.png",
+    "static/media/telephone.png": "/education/static/media/telephone.5b847b8fadf9eae19c8b.png",
+    "static/media/programming.png": "/education/static/media/programming.bdb6d9819fd646af131c.png",
+    "static/media/classroom.png": "/education/static/media/classroom.be99ddf42d56bedd48dc.png",
+    "static/media/relax.png": "/education/static/media/relax.6c0a74fa7b100f2f9eb8.png",
+    "static/media/math.png": "/education/static/media/math.d5421f897309a99b97ec.png",
+    "index.html": "/education/index.html",
+    "main.beb20912.css.map": "/education/static/css/main.beb20912.css.map",
+    "main.b2498a32.js.map": "/education/static/js/main.b2498a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb20912.css",
+    "static/js/main.b2498a32.js"
+  ]
+}
